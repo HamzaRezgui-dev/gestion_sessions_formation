@@ -1,0 +1,46 @@
+# General
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+*.log
+*.class
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+.gradle-cache/
+!gradle-wrapper.jar
+gradle-app.setting
+*.gradle.lockfile
+
+# Spring Boot specific
+logs/
+*.jar
+*.war
+*.ear
+
+# Application properties
+application*.yml
+application*.yaml
+application*.properties
+
+# Uploaded files directory
+uploads/
+
+# OS generated files
+*.swp
+*.swo
+*.bak
